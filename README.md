@@ -13,8 +13,10 @@
 
 - Concerning the screen containing the food: The selected category is  passed as a parameter from the home screen to the screen containing types of food, where it is used to fetch and display relevant content.
 - Concerning the favorites screen and settings : 
-I put Context API to use: 
+I put Context API to use:
+
 Main Provider: to manage the theme-related state and provide a way to toggle between light and dark themes & to handle the state related to favorite food items, maintains a list of favorites and provides functions to add or remove items.
+
 Updating Context State:  For example, adding a food item to favorites triggers the corresponding function from the Provider.
 
 ## Problems Faced :
