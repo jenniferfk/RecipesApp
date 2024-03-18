@@ -1,10 +1,10 @@
 # React Native Food App
 
-<img src="https://github.com/jenniferfk/RecipesApp/assets/121551748/b4248ffd-0254-404d-bafb-c0926a412481" alt="Settings Dark Mode screenshot" width="200">
-<img src="https://github.com/jenniferfk/RecipesApp/assets/121551748/36b277ac-c0fd-43a8-9b2d-ebc63aa9c4c1" alt="Indian Food Screenshot" width="200">
 <img src="https://github.com/jenniferfk/RecipesApp/assets/121551748/2bc8baef-8ce7-4b4d-804c-b20e6b42e30b" alt="homeScreen screenshot" width="200">
+<img src="https://github.com/jenniferfk/RecipesApp/assets/121551748/36b277ac-c0fd-43a8-9b2d-ebc63aa9c4c1" alt="Indian Food Screenshot" width="200">
 <img src="https://github.com/jenniferfk/RecipesApp/assets/121551748/601f6ce6-e095-4596-b440-0810f404ac28" alt="Favorite Screenshot" width="200">
 <img src="https://github.com/jenniferfk/RecipesApp/assets/121551748/2d261d89-5b0b-4d9c-bc70-6d95db03d123" alt="Settings Screenshot" width="200">
+<img src="https://github.com/jenniferfk/RecipesApp/assets/121551748/b4248ffd-0254-404d-bafb-c0926a412481" alt="Settings Dark Mode screenshot" width="200">
 
 ## App Description:
 - User can select what category of food he wants to see
